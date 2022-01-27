@@ -1,5 +1,5 @@
 # sistAlli
-Crud Basico en Spring Boot
+Crud Basico en Spring Boot.
 Necesita un archivo SQL para la Base de datos.
 Ejecute los comandos en MySQL: 
 
